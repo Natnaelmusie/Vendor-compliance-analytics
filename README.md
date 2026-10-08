@@ -62,13 +62,13 @@ vendor-compliance-analytics/
 ## Dashboard
 
 **Page 1 — Overview** (overall rates, vendor volume vs on-time, scorecard)
-![Overview](powerbi/01_overview.png)
+![Overview](Powerbi/01_overview.png)
 
 **Page 2 — Vendors & Timing** (severity breakdown, worst vendors, worst days and slots)
-![Vendors & Timing](powerbi/02_vendors_timing.png)
+![Vendors & Timing](Powerbi/02_vendors_timing.png)
 
 **Page 3 — Trends** (monthly late rate, month-on-month momentum, per-vendor trajectories)
-![Trends](powerbi/03_trends.png)
+![Trends](Powerbi/03_trends.png)
 
 ## Key findings
 
