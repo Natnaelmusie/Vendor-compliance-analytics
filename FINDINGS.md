@@ -48,23 +48,23 @@ Top vendors in Category 3:
 * XPR — 4 deliveries  
 * NHP — 3 deliveries
 
-These 5 vendors account for 75% of Category 3, making clear which vendors should be targeted. They also appear in all three categories, which further justifies having direct conversations or applying fines.
+These 5 vendors account for 75% of Category 3, making it clear which vendors should be targeted. They also appear in all three categories, which further justifies having direct conversations or applying fines.
 
 More stats:
 
-- Worst time to receive regardless of data  is always an unscheduled delivery.  
+- Worst time to receive, regardless of data,  is always an unscheduled delivery.  
 - Worst fixed time is equally 13:30 pm and 11:30 am   
 - Worst day with highest late rate is Tuesday   
-- Second worst day being Wedenday.  
-- Lowest rate being on a Thursday.
+- Second worst day is Wednesday.  
+- Lowest rate is on a Thursday.
 
 ##### **The Trends** 
 
-Importance of thes trend charts:
+Importance of these trend charts:
 
 Q4 (October–December) is the industry's peak period for order volume — Black Friday and Christmas. The data shows the late rate climbing sharply across exactly those months (14.37% in October to 25.63% in December), meaning compliance is at its weakest precisely when demand is highest. The most costly time for it to slip.
 
-The Top 5 vendors with worst late rates seems to be consistent. In each category the same names are mentioned and even when looking at the bigger picture they seem to be the worst offenders:
+The Top 5 vendors with the worst late rates seem to be consistent. In each category, the same names are mentioned, and even when looking at the bigger picture, they seem to be the worst offenders:
 
 HCN  
 NHP  
