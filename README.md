@@ -84,7 +84,7 @@ Full page-by-page analysis in [`FINDINGS.md`](FINDINGS.md).
 ## Limitations & future work
 
 - **Synthetic data** — patterns are realistic but not real; findings illustrate the pipeline, not actual vendor performance.
-- **Static snapshot** — CSV export rather than a live database connection (see deployment note above).
+- **Static snapshot** — CSV export rather than a live database connection.
 - **Per-vendor monthly trends are noisy** — individual vendors have few deliveries per month, so their month-to-month rates swing widely. That view is exploratory and reliable only for high-volume vendors.
 - **Untested hypotheses** — e.g. whether moving unreliable vendors to open-slot bookings improves their on-time rate (open slots were excluded from timing analysis, so this isn't yet evidenced).
 - **Future features** — add vendor **distance/region** to test whether location predicts lateness; test open vs fixed slot performance; a day × time heatmap once data volume supports it.
