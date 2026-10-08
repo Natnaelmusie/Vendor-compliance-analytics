@@ -52,7 +52,7 @@ vendor-compliance-analytics/
 │   └── vendor_cleaning_pipeline.py
 ├── sql/
 │   └── vendor_compliance_views.sql
-└── powerbi/
+└── Powerbi/
     ├── Vendor_Compliance_Dashboard.pbix
     ├── 01_overview.png
     ├── 02_vendors_timing.png
